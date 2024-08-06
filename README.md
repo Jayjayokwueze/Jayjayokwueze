@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hey 👋 I'm Jay jay Okwueze, a professional business information analyst. 
 
-<!--
-**Jayjayokwueze/Jayjayokwueze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[!](https://www.linkedin.com/in/jayjay-okwueze-5a1199150/)--
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Feel free to reach out on Github or linkedin!</p><p align='left'> you can view my resume<a herf=https://docs.google.com/document/d/e/2PACX-1vQofQP3WKmMoEYxAcEWVekglx_wdovtOoWu-kODblFzOo5uPSHoztPGBtuR4wpbcw/pub
