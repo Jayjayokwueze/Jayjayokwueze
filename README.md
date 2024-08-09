@@ -1,3 +1,4 @@
+[readme.txt](https://github.com/user-attachments/files/16566648/readme.txt)
 ## Hey 👋 I'm Jay jay Okwueze, a professional business information analyst. 
 
 [!](https://www.linkedin.com/in/jayjay-okwueze-5a1199150/)--
