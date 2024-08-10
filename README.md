@@ -1,6 +1,6 @@
 ## Hey 👋, This is Jay jay Okwueze 
 [![Gmail Badge](https://img.shields.io/badge/-jayjayeze.hit@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jayjayeze.hit@gmail.com)](mailto:jayjayeze.hit@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/jayjay-okwueze/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayjay-okwueze//)](https://www.linkedin.com/in/jayjay-okwueze//)
+[![LinkedIn Badge](www.linkedin.com/in/jayjay-okwueze) 
 <p align='left'>As a Business Analyst, I bring a keen focus on analysis and results, leveraging data-driven insights to guide strategic decisions. My proven track record showcases my ability to collaborate closely with senior leadership and deliver impactful , measurable outcomes through strategic data strategies. With strengths in project management, problem-solving, and strategic planning, I’m dedicated to achieving high-quality results that fuel growth and profitability. My approach combines a deep commitment to excellence with a proactive mindset, ensuring every project I undertake drives meaningful success.
 
   Key Skills
